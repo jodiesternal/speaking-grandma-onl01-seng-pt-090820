@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 
-# IF you are yelling a Grandma
+# IF you are yelling a Grandma, she is going to hear you
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 
