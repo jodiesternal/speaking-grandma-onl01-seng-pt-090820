@@ -1,6 +1,6 @@
 IF YOUR YELLING AT GRANDMA, SHE WILL HEAR YOU (OR SHE THINKS SHE CAN)
 SHE SCREAMS BACK
-if you speak to grandma, she cant hear you
+if you speak to grandma, she cant hear you (or she thinks she can)
 she yells back
 
 NO, NOT SINCE 1938!
