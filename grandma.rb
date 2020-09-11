@@ -5,5 +5,7 @@ if grandma == "hear"
 elsif grandma == "cant hear"
   puts "i cant hear."
 else
-  puts "."
+  puts "i love you grandma."
+elsif "i love you to pumpkinn"
+
 end
