@@ -2,8 +2,8 @@ grandma = "hear"
 
 if grandma == "hear"
   puts "will shout back."
-elsif dog == "thirsty"
-  puts "Refilling water bowl."
+elsif grandma == "cant hear"
+  puts "i cant hear."
 else
-  puts "Reading newspaper."
+  puts "."
 end
