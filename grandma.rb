@@ -5,6 +5,6 @@ if phrase == "I LOVE YOU GRANDMA!"
 elsif phrase !=phrase.upcase
    "HUH?! SPEAK UP, SONNY!"
 elsif phrase == phrase.upcase
-  puts "i love you to pumpkinn"
+   "NO, NOT SINCE 1938!"
 end
 end
