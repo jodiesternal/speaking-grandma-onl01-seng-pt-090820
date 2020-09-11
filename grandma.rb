@@ -1,8 +1,7 @@
 # Write a speak_to_grandma method.
 
-# IF you are yelling a Grandma, she is going to hear you
-# she screams back
-# unless you shout it (type in all capitals).
+# IF YOUR YELLING AT GRANDMA, SHE WILL HEAR YOU
+# SHE SCREMS BACK
 
 # If you shout, she can hear you (or at least she thinks so)
 # and yells back
