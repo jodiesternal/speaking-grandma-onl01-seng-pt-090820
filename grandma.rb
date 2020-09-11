@@ -4,7 +4,7 @@ if phrase == "I LOVE YOU GRANDMA!"
    "I LOVE YOU TOO PUMPKIN!"
 elsif phrase !=phrase.upcase
    "HUH?! SPEAK UP, SONNY!"
-else "i love you grandma."
+elsif phrase == phrase.upcase
   puts "i love you to pumpkinn"
 end
 end
